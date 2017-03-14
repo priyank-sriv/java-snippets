@@ -27,7 +27,7 @@ final class FibonacciWriter implements Runnable {
             dos.writeInt(f1);
             dos.writeInt(f2);
 
-            for (int i = 2; i < numTerms; i++) {
+            for (int i = 2; i <= numTerms; i++) {
                 int t = f2;
                 f2 = t + f1;
                 f1 = t;
