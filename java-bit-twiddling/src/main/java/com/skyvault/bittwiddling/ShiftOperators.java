@@ -1,4 +1,4 @@
-package com.techtraversal.bittwiddling;
+package com.skyvault.bittwiddling;
 
 
 public final class ShiftOperators {

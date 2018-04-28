@@ -1,4 +1,4 @@
-package com.techtraversal.javaio.pipes;
+package com.skyvault.javaio.pipes;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
